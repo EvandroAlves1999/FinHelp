@@ -54,10 +54,3 @@ p {
     margin-top: 24px;
     color: #000000; 
 }
-
-@media (max-width: 767px) {
-    .container {
-        width: 90%;
-        margin-top: 50px;
-    }
-}
